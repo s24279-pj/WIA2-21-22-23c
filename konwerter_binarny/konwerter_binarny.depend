@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647184910 source:/home/ubuntu/Desktop/CodeBlocks/Nauka/WIA2/konwerter_binarny/main.c
+	<stdio.h>
+	<stdlib.h>
+
