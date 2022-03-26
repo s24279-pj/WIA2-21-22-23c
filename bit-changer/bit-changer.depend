@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648294117 source:/home/ubuntu/Desktop/CodeBlocks/Nauka/WIA2/bit-changer/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+
